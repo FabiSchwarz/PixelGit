@@ -33,3 +33,8 @@ git log
 
 git checkout **CODIGO** // este codigo vai ter um layout assim a3010d875433605e3bdb6abfca7da484d6dc8497
 
+--------------
+
+DESFAZER COMMIT
+
+git reset --hard HEAD~1
