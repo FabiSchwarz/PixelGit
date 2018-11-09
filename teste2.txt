@@ -3,3 +3,21 @@
 git add file.extensao
 
 git commit -m "Nome do seu commit"
+
+"git log" - mostra todo o histórico de git commits
+
+
+------------
+
+branches - trabalhos paralelos, testes
+
+git merge - junta branches, que são versões do código. Estando na master, dá git merge, ele vai trazer o branch para dentro do Master
+
+------------
+
+man git // consulta a home page
+
+------------
+
+git checkout -b novoBranch // faz novo branch e entra no novo branch
+
