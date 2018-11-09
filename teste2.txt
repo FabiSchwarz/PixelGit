@@ -1,0 +1,2 @@
+"git add ." - faz todos arquivos da pasta serem adicionados ao repositorio git
+

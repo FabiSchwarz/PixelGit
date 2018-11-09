@@ -1,0 +1,26 @@
+C:\Users\Fabi>pwd
+/c/Users/Fabi
+
+C:\Users\Fabi>
+C:\Users\Fabi>mkdir pixel
+
+C:\Users\Fabi>cd pixel
+
+C:\Users\Fabi\pixel>git init
+Initialized empty Git repository in C:/Users/Fabi/pixel/.git/
+
+C:\Users\Fabi\pixel>git config --global user.email "fabi6schwarz@gmail.com"
+
+C:\Users\Fabi\pixel>git config -- global user.name "Fabiana"
+error: key does not contain a section: global
+
+C:\Users\Fabi\pixel>git config --global user.name "Fabiana"
+
+C:\Users\Fabi\pixel>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Fabi\pixel>
