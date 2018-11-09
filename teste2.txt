@@ -6,6 +6,7 @@ git commit -m "Nome do seu commit"
 
 "git log" - mostra todo o histórico de git commits
 
+git status - mostra como estão os adds
 
 ------------
 
@@ -24,3 +25,11 @@ git checkout -b novoBranch // faz novo branch e entra no novo branch
 git branch // ver branches existentes
 
 git checkout Master // entra novamente na branch Master
+
+-------------
+VOLTAR COMMIT
+
+git log
+
+git checkout **CODIGO** // este codigo vai ter um layout assim a3010d875433605e3bdb6abfca7da484d6dc8497
+
