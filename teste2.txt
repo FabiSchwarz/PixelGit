@@ -1,2 +1,5 @@
 "git add ." - faz todos arquivos da pasta serem adicionados ao repositorio git
 
+git add file.extensao
+
+git commit -m "Nome do seu commit"
